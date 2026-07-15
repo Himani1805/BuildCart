@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "email": "admin@buildcart.com",
+            "password": "password123",
+            "name": "Himani Sharma",
+            "role": "Procurement Manager"
+        }
+    ],
+    "products": [
+        {
+            "id": "p1",
+            "name": "Premium TMT Steel Bars",
+            "category": "Steel",
+            "price": 45000,
+            "unit": "Ton",
+            "stock": 15,
+            "description": "High-tensile strength TMT steel bars ideal for heavy reinforcement structures.",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&q=80"
+        },
+        {
+            "id": "p2",
+            "name": "OPC 53 Grade Cement",
+            "category": "Cement",
+            "price": 420,
+            "unit": "Bag",
+            "stock": 250,
+            "description": "Ordinary Portland Cement of 53 Grade, perfect for high-strength concrete works.",
+            "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&q=80"
+        },
+        {
+            "id": "p3",
+            "name": "Ready Mix Concrete (RMC)",
+            "category": "Concrete",
+            "price": 3800,
+            "unit": "CuM",
+            "stock": 40,
+            "description": "Standard M25 grade mix concrete ready for instant construction deployment.",
+            "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=500&q=80"
+        },
+        {
+            "id": "p4",
+            "name": "Eco-Friendly Fly Ash Bricks",
+            "category": "Bricks",
+            "price": 12,
+            "unit": "Piece",
+            "stock": 5000,
+            "description": "Durable and lightweight eco-bricks with high compressive strength.",
+            "image": "https://images.unsplash.com/photo-1590069261209-f8e9b8642343?w=500&q=80"
+        }
+    ],
+    "orders": []
+}
